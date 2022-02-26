@@ -1,5 +1,5 @@
 <img align='left' src='./Assets/Simple White Text Cake Image Birthday Email Header.png' width="750">
-<br/>
+
 <img align='rigth' src='https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif' width='150"'>
 
 I'm a person who loves to learn about new things. Connect with me on LinkedIn.
