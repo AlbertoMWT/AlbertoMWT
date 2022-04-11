@@ -1,9 +1,6 @@
-<img align='left' src='./Assets/Simple White Text Cake Image Birthday Email Header.png' width="750">
+<img align='left' src='./Assets/Hi! I am Alberto.svg' width="1000">
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
-
-## Alberto MWT 
-## Full Stack Developer 👨‍💻
 
 [![](https://img.shields.io/badge/LinkedIn-AlbertoMWT-blue)](https://www.linkedin.com/in/alberto-m%C3%A9ndez-blanco-48ba90224/)
 [![](https://img.shields.io/badge/Gmail-alberto.mwt@gmail.com-red)](mailto:alberto.mwt@gmail.com)
