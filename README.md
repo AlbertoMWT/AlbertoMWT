@@ -3,6 +3,7 @@
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
 [![](https://img.shields.io/badge/LinkedIn-AlbertoMWT-blue)](https://www.linkedin.com/in/alberto-m%C3%A9ndez-blanco-48ba90224/)
+[![](https://img.shields.io/badge/Twitter-AlbertoMWT-blue)](https://twitter.com/AlbertoMWT)
 [![](https://img.shields.io/badge/Gmail-alberto.mwt@gmail.com-red)](mailto:alberto.mwt@gmail.com)
 
 
