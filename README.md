@@ -14,7 +14,7 @@ const alberto = {
     pronouns: "He" | "Him",
     askMeAbout: ["app dev", "web dev", "tech"],
     technologies:{
-        programmingLanguages: ["JavaScript", "TypeScript", "Python"]
+        programmingLanguages: ["JavaScript", "TypeScript", "Python"],
         backEnd: ["nodejs", "express"],
         fronEnd: ["react", "HTML", "CSS"],
         database: ["postgreSQL"],
