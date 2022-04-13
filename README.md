@@ -12,20 +12,19 @@
 ```javascript
 const alberto = {
     pronouns: "He" | "Him",
+    status: {
+        studying: true,
+        openToWork: true
+    },
     askMeAbout: ["app dev", "web dev", "tech"],
     technologies:{
-        programmingLanguages: ["JavaScript", "TypeScript", "Python"],
+        code: ["JavaScript", "TypeScript", "Python", "HTML", "CSS"],
         backEnd: ["nodejs", "express"],
         fronEnd: ["react", "HTML", "CSS"],
         database: ["postgreSQL"],
     },
-    hobbies:["dance", "play guitar", "videogames"],
-    architecture: [
-        "Serverless Architecture", 
-        "microservices", 
-        "event-driven", 
-        "Single page applications"
-    ],
+    hobbies:["dance", "play guitar & drums", "videogames"],
+    architecture: ["microservices", "event-driven", "Single page applications"],
 }
 
 Im glad you're here...
