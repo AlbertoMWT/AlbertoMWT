@@ -13,11 +13,12 @@ const alberto = {
     pronouns: "He" | "Him",
     askMeAbout: ["app dev", "web dev", "tech"],
     technologies:{
+        programmingLanguages: ["JavaScript", "TypeScript", "Python"]
         backEnd: ["nodejs", "express"],
-        fronEnd: ["react"],
+        fronEnd: ["react", "HTML", "CSS"],
         database: ["postgreSQL"],
     },
-    hobbies:["dance", "play guitar", "play videogames"],
+    hobbies:["dance", "play guitar", "videogames"],
     architecture: ["Serverless Architecture", "microservices", "event-driven", "Single page applications"],
 }
 
