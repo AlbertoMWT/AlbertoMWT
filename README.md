@@ -20,7 +20,12 @@ const alberto = {
         database: ["postgreSQL"],
     },
     hobbies:["dance", "play guitar", "videogames"],
-    architecture: ["Serverless Architecture", "microservices", "event-driven", "Single page applications"],
+    architecture: [
+        "Serverless Architecture", 
+        "microservices", 
+        "event-driven", 
+        "Single page applications"
+    ],
 }
 
 Im glad you're here...
