@@ -5,9 +5,9 @@
 [![](https://img.shields.io/badge/Whatsapp-AlbertoMWT-brightgreen)](https://wa.link/e9we9m)
 [![](https://img.shields.io/badge/Gmail-alberto.mwt@gmail.com-red)](mailto:alberto.mwt@gmail.com)
 
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+<img align='right' src="https://c.tenor.com/jTxM4PKuHqYAAAAi/capoo-blue.gif" width="230">
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> More about me...  
+### <img src="https://c.tenor.com/Vbsu0tIL5DwAAAAi/peach-goma.gif" width="50"> More about me...  
 
 ```javascript
 const alberto = {
@@ -28,3 +28,4 @@ const alberto = {
 }
 
 Im glad you're here...
+```
