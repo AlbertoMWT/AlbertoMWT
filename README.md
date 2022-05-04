@@ -1,9 +1,6 @@
 <img align='left' src='./Assets/Hi! I am Alberto.svg' width="1000">
 
-[![](https://img.shields.io/badge/LinkedIn-AlbertoMéndez-informational)](https://www.linkedin.com/in/alberto-m%C3%A9ndez-blanco-48ba90224/)
-[![](https://img.shields.io/badge/Twitter-AlbertoMWT-blue)](https://twitter.com/AlbertoMWT)
-[![](https://img.shields.io/badge/Whatsapp-AlbertoMWT-brightgreen)](https://wa.link/e9we9m)
-[![](https://img.shields.io/badge/Gmail-alberto.mwt@gmail.com-red)](mailto:alberto.mwt@gmail.com)
+[![](https://img.shields.io/badge/LinkedIn-AlbertoMéndez-informational)](https://www.linkedin.com/in/alberto-m%C3%A9ndez-blanco-48ba90224/)  [![](https://img.shields.io/badge/Twitter-AlbertoMWT-blue)](https://twitter.com/AlbertoMWT)  [![](https://img.shields.io/badge/Whatsapp-AlbertoMWT-brightgreen)](https://wa.link/e9we9m)  [![](https://img.shields.io/badge/Gmail-alberto.mwt@gmail.com-red)](mailto:alberto.mwt@gmail.com)
 
 <img align='right' src="https://c.tenor.com/jTxM4PKuHqYAAAAi/capoo-blue.gif" width="230">
 
